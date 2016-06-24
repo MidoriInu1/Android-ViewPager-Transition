@@ -16,7 +16,7 @@ p.s.我是github新手，开项目只是记录自己平时做的效果，代码�
 + 在`build.gradle`中添加
 
 ````
-	compile 'com.song.transitionlib:Android-ViewPager-Transition:0.0.2'
+	compile 'com.song.transitionlib:transitionlib:0.0.2'
 ````
 ### Eclipse
 + 下载zip后解压，导入`TransitionLib`使用
